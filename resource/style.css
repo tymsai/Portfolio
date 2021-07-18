@@ -132,7 +132,7 @@ body.night{
         border-radius: 2%;
         border: 3px solid rgba(156, 92, 199, 0.650);
         letter-spacing: 2px;
-        margin-left: 4rem;
+        margin-left: 6rem;
         margin-bottom: 1rem;
     }
     .name,.message,.dot{
@@ -140,7 +140,7 @@ body.night{
         margin-right: auto;
     }
     .send{
-        margin-left: 8rem;
+        margin-left: 10rem;
     }
     .forms{
         margin-top: 0px;
